@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-puzzle-game/static/css/main.5a49c3a8.chunk.css",
+    "main.js": "/react-puzzle-game/static/js/main.fa5a77d8.chunk.js",
+    "main.js.map": "/react-puzzle-game/static/js/main.fa5a77d8.chunk.js.map",
+    "runtime~main.js": "/react-puzzle-game/static/js/runtime~main.00f2f37f.js",
+    "runtime~main.js.map": "/react-puzzle-game/static/js/runtime~main.00f2f37f.js.map",
+    "static/js/2.990dd9f0.chunk.js": "/react-puzzle-game/static/js/2.990dd9f0.chunk.js",
+    "static/js/2.990dd9f0.chunk.js.map": "/react-puzzle-game/static/js/2.990dd9f0.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/react-puzzle-game/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/react-puzzle-game/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/react-puzzle-game/index.html",
+    "precache-manifest.cfb83e0fa279cda367699197ad2e5446.js": "/react-puzzle-game/precache-manifest.cfb83e0fa279cda367699197ad2e5446.js",
+    "service-worker.js": "/react-puzzle-game/service-worker.js",
+    "static/css/main.5a49c3a8.chunk.css.map": "/react-puzzle-game/static/css/main.5a49c3a8.chunk.css.map"
+  }
+}
